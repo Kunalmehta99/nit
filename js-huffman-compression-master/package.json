@@ -1,0 +1,13 @@
+{
+  "name": "Huffman-Compression",
+  "version": "0.0.0",
+  "description": "Huffman Compression",
+  "main": "app.js",
+  "author": {
+    "name": "jmbri",
+    "email": ""
+  },
+  "dependencies": {
+    "jetty": "^0.2.1"
+  }
+}
